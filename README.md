@@ -3,7 +3,7 @@
 🌱 I’m currently learning DSA with java and MERN Stack development 
 💞️ I’m looking to collaborate with a person who is intersed and has curiosity in DSA and MERN Stack development 
 📫 How to reach me ...
- Email-dineshsirsiya75@gmail.com
+ Email id - dineshsirsiya75@gmail.com
  Linkedin-https://www.linkedin.com/in/dinesh-sirsiya-b53806329/
 keep coding..
 
