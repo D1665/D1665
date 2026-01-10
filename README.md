@@ -5,7 +5,7 @@
 
 🔍 Passionate about problem solving, DSA, and building full-stack web applications
 
-💻 Practicing Data Structures & Algorithms in C++ with a focus on competitive programming
+💻 Practicing Data Structures & Algorithms in Java and C++ with a focus on competitive programming
 
 ⚔️ Active participant on LeetCode, Codeforces, and CodeChef to sharpen problem-solving and coding efficiency
 
